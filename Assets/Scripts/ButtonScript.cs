@@ -18,6 +18,6 @@ public class ButtonScript : MonoBehaviour
     }
     public void credits()
     {
-        Application.LoadLevel(4);
+        Application.LoadLevel(6);
     }
 }
